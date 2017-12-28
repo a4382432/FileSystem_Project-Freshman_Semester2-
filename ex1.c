@@ -2,7 +2,7 @@
 #include<time.h>
 #include<stdlib.h>
 #include<string.h>
-
+//I just changed ex1 file
 typedef struct super{
 	char inode[512];
 	char data[1024];
